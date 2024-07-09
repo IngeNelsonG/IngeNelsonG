@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.gifer.com/2GU.gif"  />
+<img align="right" height="200" src="[https://i.gifer.com/2GU.gif](https://i.gifer.com/2GU.gif)"  />
 
 ###
 
